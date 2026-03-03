@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aayush Sinha and I'm a Aspiring software developer from India</h2>
+<h2 align="left">Hi 👋! My name is Aayush Sinha and I'm a Aspiring Data Analyst from India</h2>
 
 ###
 
